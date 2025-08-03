@@ -7,7 +7,7 @@ Aplicativo mobile desenvolvido com **React Native (Expo)** para listagem de prod
 ## 🖼️ Prints da Aplicação
 
 ### Tela de Login
-![Tela de Login](./screenshots/login.jpeg)
+<img src="./login_resized.jpeg" width="300"/>
 
 ### Lista de Produtos
 ![Produtos](./screenshots/produtos.jpeg)
