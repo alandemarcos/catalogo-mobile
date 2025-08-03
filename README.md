@@ -49,7 +49,7 @@ Aplicativo mobile desenvolvido com **React Native (Expo)** para listagem de prod
 
 📦 catalogo-mobile/
 
-├── App.js
+|── App.js
 ├── app.json
 ├── babel.config.js
 ├── package.json
