@@ -48,7 +48,6 @@ Aplicativo mobile desenvolvido com **React Native (Expo)** para listagem de prod
 ## 📁 Estrutura de Pastas
 
 📦 catalogo-mobile/
-📁 Estrutura de Pastas
 
 ├── App.js
 ├── app.json
