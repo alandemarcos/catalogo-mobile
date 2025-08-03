@@ -70,7 +70,6 @@ Aplicativo mobile desenvolvido com **React Native (Expo)** para listagem de prod
 Email: usuario@teste.com
 Senha: 123456
 
-
 Somente com estas credenciais é possível acessar o app.
 
 ---
@@ -109,7 +108,6 @@ https://dummyjson.com/products/{id}
 👨‍💻 Autor
 Desenvolvido por Alan Demarcos — Projeto para Faculdade de Engenharia da Computação - UNIFATEC.
 
-.
 
 📄 Licença
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para mais detalhes.
