@@ -47,33 +47,33 @@ Aplicativo mobile desenvolvido com **React Native (Expo)** para listagem de prod
 
 ## 📁 Estrutura de Pastas
 
-/src
-/screens
-- LoginScreen.js
-- ProductListScreen.js
-- ProductDetailsScreen.js
-/components
-- ProductCard.js
-/services
-- api.js
-/navigation
-- AppNavigator.js
-/utils
-- categories.js
-/App.js
+📦 catalogo-mobile/
+├── App.js
+├── app.json
+├── babel.config.js
+├── package.json
+├── .gitignore
+├── assets/
+│   └── imagens
+│   └── fonts
+├── screenshots/
+│   ├── login.png
+│   ├── produtos.png
+│   └── detalhes.png
+├── src/
+│   ├── components/
+│   │   └── ProductCard.js
+│   ├── navigation/
+│   │   └── AppNavigator.js
+│   ├── screens/
+│   │   ├── LoginScreen.js
+│   │   ├── ProductListScreen.js
+│   │   └── ProductDetailsScreen.js
+│   ├── services/
+│   │   └── api.js
+│   └── utils/
+│       └── categories.js
 
-
----
-
-## 🧪 Dados de Acesso para Testes
-
-Email: usuario@teste.com
-Senha: 123456
-
-
-Somente com estas credenciais é possível acessar o app.
-
----
 
 ## ▶️ Como Executar o Projeto
 
@@ -97,6 +97,16 @@ npx expo start
 
 Use o QR Code no navegador ou aplicativo Expo Go no celular.
 
+---
+## 🧪 Dados de Acesso para Testes
+
+Email: usuario@teste.com
+Senha: 123456
+
+Somente com estas credenciais é possível acessar o app.
+
+---
+
 🔄 API Utilizada
 DummyJSON API
 
@@ -109,7 +119,6 @@ https://dummyjson.com/products/{id}
 👨‍💻 Autor
 Desenvolvido por Alan Demarcos — Projeto para Faculdade de Engenharia da Computação - UNIFATEC.
 
-.
 
 📄 Licença
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para mais detalhes.
