@@ -98,7 +98,7 @@ Use o QR Code no navegador ou aplicativo Expo Go no celular.
 
 ## 🧪 Dados de Acesso para Testes
 
-Email: usuario@teste.com  
+Username: usuario@teste.com  
 Senha: 123456
 
 Somente com estas credenciais é possível acessar o app.
