@@ -85,27 +85,19 @@ cd catalogo-mobile
 ### Instale as dependências
 npm install
 
-### Detalhes do Produto
-![Detalhes](./screenshots/detalhes.jpeg)
-
----
-
-
-2. Instale as dependências:
-nmp install
-
-3. Instale o Expo CLI (caso ainda não tenha):
+### Instale o Expo CLI (caso ainda não tenha):
 npm install -g explo-cli
 
-4. Execute o App
+### Execute o App: 
 npx expo start
 
 Use o QR Code no navegador ou aplicativo Expo Go no celular.
 ---
+
 ## 🧪 Dados de Acesso para Testes
 
-Email: usuario@teste.com
-Senha: 123456
+![Tela de Login]Email: usuario@teste.com
+![Tela de Login]Senha: 123456
 
 Somente com estas credenciais é possível acessar o app.
 
