@@ -79,8 +79,7 @@ Aplicativo mobile desenvolvido com **React Native (Expo)** para listagem de prod
 
 1. Clone o repositório
 
-```bash
-git clone https://github.com/seu-usuario/catalogo-mobile.git
+git clone https://github.com/alandemarcos/catalogo-mobile.git
 cd catalogo-mobile
 
 2. Instale as dependências
@@ -119,9 +118,6 @@ https://dummyjson.com/products/{id}
 👨‍💻 Autor
 Desenvolvido por Alan Demarcos — Projeto para Faculdade de Engenharia da Computação - UNIFECAF.
 
-
-📄 Licença
-Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para mais detalhes.
 
 
 
