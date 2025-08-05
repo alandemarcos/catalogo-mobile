@@ -49,31 +49,8 @@ Aplicativo mobile desenvolvido com **React Native (Expo)** para listagem de prod
 
 📦 catalogo-mobile/
 
-|── App.js
-├── app.json
-├── babel.config.js
-├── package.json
-├── .gitignore
-├── assets/
-│   └── imagens
-│   └── fonts
-├── screenshots/
-│   ├── login.png
-│   ├── produtos.png
-│   └── detalhes.png
-├── src/
-│   ├── components/
-│   │   └── ProductCard.js
-│   ├── navigation/
-│   │   └── AppNavigator.js
-│   ├── screens/
-│   │   ├── LoginScreen.js
-│   │   ├── ProductListScreen.js
-│   │   └── ProductDetailsScreen.js
-│   ├── services/
-│   │   └── api.js
-│   └── utils/
-│       └── categories.js
+![Estrutura de Pastas](./screenshots/estrutura.jpg)
+
 
 ---
 ## ▶️ Como Executar o Projeto
