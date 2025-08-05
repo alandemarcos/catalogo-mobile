@@ -1,6 +1,6 @@
 # 📱 Catálogo Mobile - Loja Online
 
-Aplicativo mobile desenvolvido com **React Native (Expo)** para listagem de produtos de uma loja online, com navegação por categorias, login simulado, integração com API externa e tela de detalhes. Projeto criado como desafio para disciplina de Engenharia da Computação (Mobile Development).
+Aplicativo mobile desenvolvido com **React Native (Expo)** para listagem de produtos de uma loja online, com navegação por categorias, login simulado, integração com API externa e tela de detalhes. Projeto criado como desafio para disciplina Mobile Development do curso Engenharia da Computação.
 
 ---
 
