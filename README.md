@@ -97,23 +97,26 @@ Use o QR Code no navegador ou aplicativo Expo Go no celular.
 
 ## 🧪 Dados de Acesso para Testes
 
-Email: usuario@teste.com
+Email: usuario@teste.com  
 Senha: 123456
 
 Somente com estas credenciais é possível acessar o app.
 
 ---
 
-🔄 API Utilizada
-DummyJSON API
+## 🔄 API Utilizada
 
-Lista por categoria: 
-https://dummyjson.com/products/category/{categoria}
+- DummyJSON API  
+- Lista por categoria:  
+ https://dummyjson.com/products/category/{categoria}  
 
-Detalhe por ID: 
-https://dummyjson.com/products/{id}
+- Detalhe por ID:  
+ https://dummyjson.com/products/{id}  
 
-👨‍💻 Autor
+
+---
+
+👨‍💻 Autor  
 Desenvolvido por Alan Demarcos — Projeto para Faculdade de Engenharia da Computação - UNIFECAF.
 
 
