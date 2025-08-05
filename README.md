@@ -92,12 +92,13 @@ npm install -g explo-cli
 npx expo start
 
 Use o QR Code no navegador ou aplicativo Expo Go no celular.
+
 ---
 
 ## 🧪 Dados de Acesso para Testes
 
-![Tela de Login]Email: usuario@teste.com
-![Tela de Login]Senha: 123456
+Email: usuario@teste.com
+Senha: 123456
 
 Somente com estas credenciais é possível acessar o app.
 
@@ -106,10 +107,10 @@ Somente com estas credenciais é possível acessar o app.
 🔄 API Utilizada
 DummyJSON API
 
-Lista por categoria:
+Lista por categoria: 
 https://dummyjson.com/products/category/{categoria}
 
-Detalhe por ID:
+Detalhe por ID: 
 https://dummyjson.com/products/{id}
 
 👨‍💻 Autor
