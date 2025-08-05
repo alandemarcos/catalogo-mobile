@@ -80,11 +80,11 @@ Aplicativo mobile desenvolvido com **React Native (Expo)** para listagem de prod
 
 ### Clone o repositório:  
 git clone https://github.com/alandemarcos/catalogo-mobile.git  
-cd catalogo-mobile
 
 ### Instale as dependências
+cd catalogo-mobile  
 npm install  
-cd catalogo-mobile
+
 
 ### Instale o Expo CLI (caso ainda não tenha):
 npm install -g explo-cli
