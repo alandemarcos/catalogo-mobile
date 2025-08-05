@@ -76,16 +76,20 @@ Aplicativo mobile desenvolvido com **React Native (Expo)** para listagem de prod
 │       └── categories.js
 
 ---
-
-git clone https://github.com/alandemarcos/catalogo-mobile.git
-cd catalogo-mobile
-
----
 ## ▶️ Como Executar o Projeto
 
-1. Clone o repositório:
+### Clone o repositório:
 git clone https://github.com/alandemarcos/catalogo-mobile.git
 cd catalogo-mobile
+
+### Instale as dependências
+npm install
+
+### Detalhes do Produto
+![Detalhes](./screenshots/detalhes.jpeg)
+
+---
+
 
 2. Instale as dependências:
 nmp install
