@@ -44,15 +44,6 @@ Aplicativo mobile desenvolvido com **React Native (Expo)** para listagem de prod
 | [DummyJSON API](https://dummyjson.com/docs/products) | API REST pública de produtos |
 
 ---
-
-## 📁 Estrutura de Pastas
-
-📦 catalogo-mobile/
-
-![Estrutura de Pastas](./screenshots/estrutura.jpg)
-
-
----
 ## ▶️ Como Executar o Projeto
 
 ### Clone o repositório:  
