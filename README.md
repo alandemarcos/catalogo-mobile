@@ -78,8 +78,8 @@ Aplicativo mobile desenvolvido com **React Native (Expo)** para listagem de prod
 ---
 ## ▶️ Como Executar o Projeto
 
-### Clone o repositório:
-git clone https://github.com/alandemarcos/catalogo-mobile.git
+### Clone o repositório:  
+git clone https://github.com/alandemarcos/catalogo-mobile.git  
 cd catalogo-mobile
 
 ### Instale as dependências
@@ -116,7 +116,7 @@ Somente com estas credenciais é possível acessar o app.
 
 ---
 
-👨‍💻 Autor  
+## 👨‍💻 Autor  
 Desenvolvido por Alan Demarcos — Projeto para Faculdade de Engenharia da Computação - UNIFECAF.
 
 
