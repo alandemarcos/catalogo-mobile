@@ -75,27 +75,28 @@ Aplicativo mobile desenvolvido com **React Native (Expo)** para listagem de prod
 │   └── utils/
 │       └── categories.js
 
-## ▶️ Como Executar o Projeto
-
-1. Clone o repositório
+---
 
 git clone https://github.com/alandemarcos/catalogo-mobile.git
 cd catalogo-mobile
 
-2. Instale as dependências
+---
+## ▶️ Como Executar o Projeto
 
-npm install
+1. Clone o repositório:
+git clone https://github.com/alandemarcos/catalogo-mobile.git
+cd catalogo-mobile
 
-3. Instale o Expo CLI (caso ainda não tenha)
+2. Instale as dependências:
+nmp install
 
-npm install -g expo-cli
+3. Instale o Expo CLI (caso ainda não tenha):
+npm install -g explo-cli
 
-4. Execute o app
-
+4. Execute o App
 npx expo start
 
 Use o QR Code no navegador ou aplicativo Expo Go no celular.
-
 ---
 ## 🧪 Dados de Acesso para Testes
 
