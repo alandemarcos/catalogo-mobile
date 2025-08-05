@@ -1,6 +1,6 @@
 # 📱 Catálogo Mobile - Loja Online
 
-Aplicativo mobile desenvolvido com **React Native (Expo)** para listagem de produtos de uma loja online, com navegação por categorias, login simulado, integração com API externa e tela de detalhes. Projeto criado como desafio para disciplina de Engenharia da Computação (Desenvolvimento Mobile).
+Aplicativo mobile desenvolvido com **React Native (Expo)** para listagem de produtos de uma loja online, com navegação por categorias, login simulado, integração com API externa e tela de detalhes. Projeto criado como desafio para disciplina de Engenharia da Computação (Mobile Development).
 
 ---
 
@@ -83,7 +83,8 @@ git clone https://github.com/alandemarcos/catalogo-mobile.git
 cd catalogo-mobile
 
 ### Instale as dependências
-npm install
+npm install  
+cd catalogo-mobile
 
 ### Instale o Expo CLI (caso ainda não tenha):
 npm install -g explo-cli
